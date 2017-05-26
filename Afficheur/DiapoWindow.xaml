@@ -1,0 +1,25 @@
+﻿<Window x:Class="Afficheur.DiapoWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Afficheur"
+        mc:Ignorable="d"
+        Title="DiapoWindow"     ResizeMode="NoResize"
+    WindowStartupLocation="CenterScreen" 
+    Width="1920" Height="1080"
+    WindowState="Maximized" WindowStyle="None">
+    <Grid>
+        <ListBox Grid.Column="2" x:Name="listBox"
+                ItemsSource="{Binding Fichiers}"
+                HorizontalAlignment="Stretch"
+                VerticalAlignment="Stretch">
+            <Image x:Name="Image" HorizontalAlignment="Stretch"
+                   VerticalAlignment="Stretch">
+                <Image.Source>
+                    <BitmapImage UriSource="{Binding Path=FullName}"/>
+                </Image.Source>
+            </Image>
+        </ListBox>
+    </Grid>
+</Window>

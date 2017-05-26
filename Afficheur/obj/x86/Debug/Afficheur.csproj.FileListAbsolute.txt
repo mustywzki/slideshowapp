@@ -1,0 +1,34 @@
+V:\S2\IHM\Afficheur\Afficheur\bin\x86\Debug\Afficheur.exe.config
+V:\S2\IHM\Afficheur\Afficheur\bin\x86\Debug\Afficheur.exe
+V:\S2\IHM\Afficheur\Afficheur\bin\x86\Debug\Afficheur.pdb
+V:\S2\IHM\Afficheur\Afficheur\bin\x86\Debug\Exif.dll
+V:\S2\IHM\Afficheur\Afficheur\bin\x86\Debug\Exif.xml
+V:\S2\IHM\Afficheur\Afficheur\obj\x86\Debug\MainWindow.g.cs
+V:\S2\IHM\Afficheur\Afficheur\obj\x86\Debug\App.g.cs
+V:\S2\IHM\Afficheur\Afficheur\obj\x86\Debug\Afficheur_MarkupCompile.cache
+V:\S2\IHM\Afficheur\Afficheur\obj\x86\Debug\Afficheur_MarkupCompile.lref
+V:\S2\IHM\Afficheur\Afficheur\obj\x86\Debug\MainWindow.baml
+V:\S2\IHM\Afficheur\Afficheur\obj\x86\Debug\Afficheur.g.resources
+V:\S2\IHM\Afficheur\Afficheur\obj\x86\Debug\Afficheur.Properties.Resources.resources
+V:\S2\IHM\Afficheur\Afficheur\obj\x86\Debug\Afficheur.csproj.GenerateResource.Cache
+V:\S2\IHM\Afficheur\Afficheur\obj\x86\Debug\Afficheur.exe
+V:\S2\IHM\Afficheur\Afficheur\obj\x86\Debug\Afficheur.pdb
+V:\S2\IHM\Afficheur\Afficheur\obj\x86\Debug\Afficheur.csprojResolveAssemblyReference.cache
+C:\Users\Cedric\Documents\Visual Studio 2017\Projects\Afficheur\Afficheur\bin\x86\Debug\Afficheur.exe.config
+C:\Users\Cedric\Documents\Visual Studio 2017\Projects\Afficheur\Afficheur\bin\x86\Debug\Afficheur.exe
+C:\Users\Cedric\Documents\Visual Studio 2017\Projects\Afficheur\Afficheur\bin\x86\Debug\Afficheur.pdb
+C:\Users\Cedric\Documents\Visual Studio 2017\Projects\Afficheur\Afficheur\bin\x86\Debug\Exif.dll
+C:\Users\Cedric\Documents\Visual Studio 2017\Projects\Afficheur\Afficheur\bin\x86\Debug\Exif.xml
+C:\Users\Cedric\Documents\Visual Studio 2017\Projects\Afficheur\Afficheur\obj\x86\Debug\Afficheur.csprojResolveAssemblyReference.cache
+C:\Users\Cedric\Documents\Visual Studio 2017\Projects\Afficheur\Afficheur\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Cedric\Documents\Visual Studio 2017\Projects\Afficheur\Afficheur\obj\x86\Debug\App.g.cs
+C:\Users\Cedric\Documents\Visual Studio 2017\Projects\Afficheur\Afficheur\obj\x86\Debug\Afficheur_MarkupCompile.cache
+C:\Users\Cedric\Documents\Visual Studio 2017\Projects\Afficheur\Afficheur\obj\x86\Debug\Afficheur_MarkupCompile.lref
+C:\Users\Cedric\Documents\Visual Studio 2017\Projects\Afficheur\Afficheur\obj\x86\Debug\MainWindow.baml
+C:\Users\Cedric\Documents\Visual Studio 2017\Projects\Afficheur\Afficheur\obj\x86\Debug\Afficheur.g.resources
+C:\Users\Cedric\Documents\Visual Studio 2017\Projects\Afficheur\Afficheur\obj\x86\Debug\Afficheur.Properties.Resources.resources
+C:\Users\Cedric\Documents\Visual Studio 2017\Projects\Afficheur\Afficheur\obj\x86\Debug\Afficheur.csproj.GenerateResource.Cache
+C:\Users\Cedric\Documents\Visual Studio 2017\Projects\Afficheur\Afficheur\obj\x86\Debug\Afficheur.exe
+C:\Users\Cedric\Documents\Visual Studio 2017\Projects\Afficheur\Afficheur\obj\x86\Debug\Afficheur.pdb
+C:\Users\Cedric\Documents\Visual Studio 2017\Projects\Afficheur\Afficheur\obj\x86\Debug\DiapoWindow.g.cs
+C:\Users\Cedric\Documents\Visual Studio 2017\Projects\Afficheur\Afficheur\obj\x86\Debug\DiapoWindow.baml

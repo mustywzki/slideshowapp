@@ -1,0 +1,15 @@
+V:\S2\IHM\Afficheur\Afficheur\bin\Debug\Afficheur.exe.config
+V:\S2\IHM\Afficheur\Afficheur\bin\Debug\Afficheur.exe
+V:\S2\IHM\Afficheur\Afficheur\bin\Debug\Afficheur.pdb
+V:\S2\IHM\Afficheur\Afficheur\obj\Debug\Afficheur.csprojResolveAssemblyReference.cache
+V:\S2\IHM\Afficheur\Afficheur\obj\Debug\MainWindow.g.cs
+V:\S2\IHM\Afficheur\Afficheur\obj\Debug\App.g.cs
+V:\S2\IHM\Afficheur\Afficheur\obj\Debug\Afficheur_MarkupCompile.cache
+V:\S2\IHM\Afficheur\Afficheur\obj\Debug\Afficheur_MarkupCompile.lref
+V:\S2\IHM\Afficheur\Afficheur\obj\Debug\MainWindow.baml
+V:\S2\IHM\Afficheur\Afficheur\obj\Debug\Afficheur.g.resources
+V:\S2\IHM\Afficheur\Afficheur\obj\Debug\Afficheur.Properties.Resources.resources
+V:\S2\IHM\Afficheur\Afficheur\obj\Debug\Afficheur.csproj.GenerateResource.Cache
+V:\S2\IHM\Afficheur\Afficheur\obj\Debug\Afficheur.exe
+V:\S2\IHM\Afficheur\Afficheur\obj\Debug\Afficheur.pdb
+V:\S2\IHM\Afficheur\Afficheur\bin\Debug\Exif.xml
